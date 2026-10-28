@@ -6,10 +6,6 @@ The **Super Store Sales Dashboard** is an interactive business intelligence proj
 
 The dashboard transforms sales data into actionable insights through interactive visualizations, KPI cards, trend analysis, and geographical sales analysis. It helps stakeholders understand business performance and identify important sales and profit patterns.
 
-##  Dashboard Preview
-
-
-> **Note:** Create an `images` folder in your GitHub repository and upload your dashboard screenshot with the filename `super-store-dashboard.png`. The image will then appear in this section.
 
 ##  Project Objectives
 
